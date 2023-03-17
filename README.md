@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <h1>Evolution de la Population et du Chomage d'Istanbul
 
-<h3>Membres du projet:</h3>
+<h2>Membres du projet:</h2>
 -Cansin SEKER<br>
 -Yahya IMIK
 
@@ -10,6 +10,12 @@ Dans ce projet, en prenant les données sur sur la population et le chômage d'I
   
 <h3>Notre Problématique:</h3>
   Le chômage augment-t-il avec l'augmentation de la population? Nous allons trouver une formule générale pour l'augmentation du chômage et calculer par années. Ensuite, nous vérifierons si les données dont nous disposons et les données réelles correspondent. En fin, en regardant la grapgique que notre fonction a créé, nous allons controler s'il existe une liaison entre le chômage et la population.
+  
+  <h3>La Formule pour Calsuler le Taux de Chômage:</h3>
+  
+  Le Taux de Chômage= (nombre de chômeurs / force de travail) * 100
+  
+  
   
   
   
