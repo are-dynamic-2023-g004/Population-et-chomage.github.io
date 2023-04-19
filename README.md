@@ -49,12 +49,16 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   <h2>Les Graphiques:</h2>
   
 
-<video width="360" height="320" controls="controls">
-  <source src="chomage.mp4" type="video/mp4" /> 
-</video>
+La grafique de la taux de chomage entre 2000-2020
   
   
+  <img width="356" alt="Ekran görüntüsü 2023-04-20 000837" src="https://user-images.githubusercontent.com/125642218/233210651-e02afa97-7996-46ca-abd7-3949c4600c05.png">
+
   
-  
-  
- 
+
+La graphique de la population de la Turquie
+
+
+
+ <img width="341" alt="Ekran görüntüsü 2023-04-20 000826" src="https://user-images.githubusercontent.com/125642218/233210702-b5ebba84-d2ec-4368-b8c0-5cf920f36de9.png">
+
