@@ -71,3 +71,11 @@ La graphique du taux de croissance de la population
 
 <img width="498" alt="tauxdepopulation" src="https://user-images.githubusercontent.com/125642218/233212498-cc08c244-da05-4ec0-a9a3-1801ca3bf9c3.png">
 
+
+
+Comparaison du taux de croissance démographique et des taux de chômage
+
+
+
+<img width="520" alt="lesdeuxtaux" src="https://user-images.githubusercontent.com/125642218/233213309-7a5c8c83-32b9-4bc6-b0bd-ebf53a51fa6c.png">
+
