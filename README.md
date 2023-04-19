@@ -52,7 +52,8 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
 La grafique de la taux de chomage entre 2000-2020
   
   
-  <img width="356" alt="Ekran görüntüsü 2023-04-20 000837" src="https://user-images.githubusercontent.com/125642218/233210651-e02afa97-7996-46ca-abd7-3949c4600c05.png">
+
+<img width="356" alt="tauxdecomage" src="https://user-images.githubusercontent.com/125642218/233211492-a2f5cc5f-f9c0-4990-a207-95559adab916.png">
 
   
 
@@ -60,5 +61,5 @@ La graphique de la population de la Turquie
 
 
 
- <img width="341" alt="Ekran görüntüsü 2023-04-20 000826" src="https://user-images.githubusercontent.com/125642218/233210702-b5ebba84-d2ec-4368-b8c0-5cf920f36de9.png">
+<img width="341" alt="population" src="https://user-images.githubusercontent.com/125642218/233211539-f40cd3e6-506a-401e-b747-f1f72325be4f.png">
 
