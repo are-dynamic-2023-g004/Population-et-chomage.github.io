@@ -79,3 +79,14 @@ Comparaison du taux de croissance démographique et des taux de chômage
 
 <img width="520" alt="lesdeuxtaux" src="https://user-images.githubusercontent.com/125642218/233213309-7a5c8c83-32b9-4bc6-b0bd-ebf53a51fa6c.png">
 
+
+
+
+
+
+https://user-images.githubusercontent.com/125642218/233213996-c493bccc-016c-4e50-81e6-10b7da48a747.mp4
+
+
+
+
+
