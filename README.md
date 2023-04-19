@@ -13,9 +13,13 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   
   <h4>Semaine 10 Mars:</h4>
+  Nous avons essayé de trouver une formule générale pour calculer le taux de chômage. Cette semaine, nous avons collecté des informations et effectué des recherches sur notre sujet.
+  
   <h>La Formule pour Calsuler le Taux de Chômage:</h>
   
   Le Taux de Chômage= (nombre de chômeurs / force de travail) * 100
+  
+  <h4>Semaine 17 Mars:</h4>
   
   
   
