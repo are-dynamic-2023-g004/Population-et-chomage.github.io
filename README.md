@@ -42,7 +42,7 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   
   <h3>Semaine 21 April:</h3>
-  
+  Nous avons simulé l'évolution du taux d'augmentation du chômage et du taux d'augmentation de la population au fil des ans sur la carte de la Turquie par couleur. Nous avons transformé ces deux simulations en vidéo.
   
   
   
