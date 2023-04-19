@@ -49,7 +49,11 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   <h2>Les Graphiques:</h2>
   
 
-
+<video width="360" height="320" controls="controls">
+  <source src="video.mp4" type="video/mp4" />
+  <source src="video.ogg" type="video/ogg" />
+  
+</video>
   
   
   
