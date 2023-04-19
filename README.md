@@ -1,5 +1,5 @@
 <DOCTYPE html>
-theme: minima
+<theme: leapday>
 <h1>Evolution de la Population et du Chomage de Turquie
 
 <h2>Membres du projet:</h2>
