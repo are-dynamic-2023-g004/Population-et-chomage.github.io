@@ -19,15 +19,28 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   Le Taux de Chômage= (nombre de chômeurs / force de travail) * 100
   
-  <h3>Semaine 17 Mars:</h3>
   
+  <h3>Semaine 17 Mars:</h3>
   Nous avons collecté des informations pour les paramètres de la formule de calcul du taux de chômage que nous avons trouvée dans la semaine du 10 mars. Nous avons obtenu des informations sur le nombre de force de travail et de chômeurs entre 2000 et 2019 en Turquie. Nous avons écrit les informations obtenues dans l'environnement jupyter notebook.
   
-   <h3>Semaine 24 Mars:</h3>
   
+  <h3>Semaine 24 Mars:</h3>
   Dans l'environnement Jupyter notebook, nous avons écrit un code qui nous donne le taux de chômage de cette année-là en Turquie lorsque nous entrons le paramètre de l'année.
   
+  
   <h3>Semaine 31 Mars:</h3>
+  Nous avons décidé de créer un graphique montrant les taux de chômage par année pour voir si la population et le taux de chômage sont liés l'un à l'autre. Une fois de plus, nous avons écrit le code nécessaire pour créer un graphique dans l'environnement jupyter notebook. 
+  
+  
+  <h3>Semaine 7 April:</h3>
+  Nous avons mené des recherches sur la population turque. Nous avons trouvé le nombre d'habitants pour chaque année entre 2000 et 2019. Dans l'environnement Jupyter notebook, nous avons créé deux graphiques différents montrant la population par année et montrant l'augmentation de la population par année.
+  
+  
+<h3>Semaine 14 April:</h3>
+  Nous avons créé un graphique combinant le graphique du chômage et le graphique de la population dans l'environnement jupyter notebook. Grâce à ce graphique, nous avons pu voir l'augmentation et la diminution de la population et l'augmentation et la diminution du chômage en même temps. Cette étape a été très efficace pour arriver à une conclusion pour notre problématique. 
+  
+  
+  <h3>Semaine 21 April:</h3>
   
   
   
