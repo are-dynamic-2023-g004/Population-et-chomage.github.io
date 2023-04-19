@@ -49,7 +49,7 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   <h2>Les Graphiques:</h2>
   
 
-La grafique de la taux de chomage entre 2000-2020
+Le graphique ci-dessous montre les taux de chômage pour les années 2000-2020. Le plus grand changement dans le graphique a eu lieu pendant la crise économique mondiale de 2008. Nous avons fait un code qui est calculé chaque année en divisant le nombre d'actifs par le nombre de chômeurs et en multipliant par 100. Ensuite, nous l'avons converti en graphique dans l'environnement jupyternotebook.
   
   
 
