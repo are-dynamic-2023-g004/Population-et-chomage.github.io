@@ -12,14 +12,14 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   Le chômage augment-t-il avec l'augmentation de la population? Nous allons trouver une formule générale pour l'augmentation du chômage et calculer par années. Ensuite, nous vérifierons si les données dont nous disposons et les données réelles correspondent. En fin, en regardant la grapgique que notre fonction a créé, nous allons controler s'il existe une liaison entre le chômage et la population.
   
   
-  <h4>Semaine 10 Mars:</h4>
+  <h3>Semaine 10 Mars:</h3>
   Nous avons essayé de trouver une formule générale pour calculer le taux de chômage. Cette semaine, nous avons collecté des informations et effectué des recherches sur notre sujet.
   
-  <h5>La Formule pour Calsuler le Taux de Chômage:</h5>
+  <h4>La Formule pour Calsuler le Taux de Chômage:</h4>
   
   Le Taux de Chômage= (nombre de chômeurs / force de travail) * 100
   
-  <h4>Semaine 17 Mars:</h4>
+  <h3>Semaine 17 Mars:</h3>
   
   
   
