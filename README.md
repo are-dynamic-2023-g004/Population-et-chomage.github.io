@@ -21,6 +21,16 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   <h3>Semaine 17 Mars:</h3>
   
+  Nous avons collecté des informations pour les paramètres de la formule de calcul du taux de chômage que nous avons trouvée dans la semaine du 10 mars. Nous avons obtenu des informations sur le nombre de force de travail et de chômeurs entre 2000 et 2019 en Turquie. Nous avons écrit les informations obtenues dans l'environnement jupyter notebook.
+  
+   <h3>Semaine 24 Mars:</h3>
+  
+  Dans l'environnement Jupyter notebook, nous avons écrit un code qui nous donne le taux de chômage de cette année-là en Turquie lorsque nous entrons le paramètre de l'année.
+  
+  <h3>Semaine 31 Mars:</h3>
+  
+  
+  
   
   
   
