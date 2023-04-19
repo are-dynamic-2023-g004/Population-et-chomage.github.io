@@ -49,7 +49,7 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   <h2>Les Graphiques:</h2>
   
 
-Le graphique ci-dessous montre les taux de chômage pour les années 2000-2020. Le plus grand changement dans le graphique a eu lieu pendant la crise économique mondiale de 2008. Nous avons fait un code qui est calculé chaque année en divisant le nombre d'actifs par le nombre de chômeurs et en multipliant par 100. Ensuite, nous l'avons converti en graphique dans l'environnement jupyternotebook.
+La grafique de la taux de chomage entre 2000-2020
   
   
 
@@ -62,4 +62,12 @@ La graphique de la population de la Turquie
 
 
 <img width="341" alt="population" src="https://user-images.githubusercontent.com/125642218/233211539-f40cd3e6-506a-401e-b747-f1f72325be4f.png">
+
+
+
+La graphique du taux de croissance de la population
+
+
+
+<img width="498" alt="tauxdepopulation" src="https://user-images.githubusercontent.com/125642218/233212498-cc08c244-da05-4ec0-a9a3-1801ca3bf9c3.png">
 
