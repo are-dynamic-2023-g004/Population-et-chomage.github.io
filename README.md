@@ -75,7 +75,8 @@ La graphique du taux de croissance de la population
 
 <h3>Conclusion:</h3>
 En regardant la comparaison du taux de croissance démographique et des taux de chômage sur le graphique, nous avons décidé s'il y avait un lien entre les deux. Les deux lignes doivent être similaires l'une à l'autre pour qu'il y ait une relation entre elles. Par exemple, bien que le taux d'augmentation du chômage ait culminé en 2008, le taux d'augmentation de la population continue de progresser dans son cours habituel, ou l'augmentation de la population reste la même malgré le fait que le taux de chômage a considérablement diminué en 2010. De plus, il n'y a pas de paramètre lié à la population dans notre formule générale qui calcule le taux de chômage. Cela montre qu'il n'y a pas de lien entre l'augmentation du chômage et l'augmentation de la population.
-
+<br>
+<br>
 
 
 <img width="520" alt="lesdeuxtaux" src="https://user-images.githubusercontent.com/125642218/233213309-7a5c8c83-32b9-4bc6-b0bd-ebf53a51fa6c.png">
