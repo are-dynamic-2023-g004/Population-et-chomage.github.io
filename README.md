@@ -15,9 +15,9 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   
   <h3>Semaine 10 Mars:</h3>
-  Nous avons essayé de trouver une formule générale pour calculer le taux de chômage. Cette semaine, nous avons collecté des informations et effectué des recherches sur notre sujet.
+   Dans notre première leçon, nous avons pensé à un sujet approprié pour la dynamique et nous avons réfléchi à la façon dont nous pourrions expliquer ce sujet. Aprés nous avons essayé de trouver une formule générale pour calculer le taux de chômage. Cette semaine, nous avons collecté des informations et effectué des recherches sur notre sujet.
   
-  <h4>La Formule pour Calsuler le Taux de Chômage:</h4>
+  <h4>La Formule pour Calculer le Taux de Chômage:</h4>
   
   Le Taux de Chômage= (nombre de chômeurs / force de travail) * 100
   
@@ -27,11 +27,11 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   
   
   <h3>Semaine 24 Mars:</h3>
-  Dans l'environnement Jupyter notebook, nous avons écrit un code qui nous donne le taux de chômage de cette année-là en Turquie lorsque nous entrons le paramètre de l'année.
+  Dans l'environnement Jupyter notebook, nous avons écrit un code qui nous donne le taux de chômage de cette année-là en Turquie lorsque nous entrons le paramètre de l'année. De plus, nous avons décidé de colorier la carte de la Turquie afin de simuler l'évolution de la population et les taux de chômage en Turquie.
   
   
   <h3>Semaine 31 Mars:</h3>
-  Nous avons décidé de créer un graphique montrant les taux de chômage par année pour voir si la population et le taux de chômage sont liés l'un à l'autre. Une fois de plus, nous avons écrit le code nécessaire pour créer un graphique dans l'environnement jupyter notebook. 
+  Nous avons décidé de créer un graphique montrant les taux de chômage par année pour voir si la population et le taux de chômage sont liés l'un à l'autre. Une fois de plus, nous avons écrit le code nécessaire pour créer un graphique dans l'environnement jupyter notebook. et nous avons commencé la carte de la Turquie que nous ferons.
   
   
   <h3>Semaine 7 April:</h3>
