@@ -81,6 +81,8 @@ En regardant la comparaison du taux de croissance démographique et des taux de 
 <img width="520" alt="lesdeuxtaux" src="https://user-images.githubusercontent.com/125642218/233213309-7a5c8c83-32b9-4bc6-b0bd-ebf53a51fa6c.png">
 
 
+  <h3> Un petit aperçu :</h3>
+  Nous ne pensons pas qu'il y aura un changement dans le taux de croissance de la population entre 2023 et 2024, mais nous prévoyons que le taux de chômage sera supérieur à 30 % en 2023 et 2024, en fonction de la situation économique et politique de la Turquie.
 
 
 
