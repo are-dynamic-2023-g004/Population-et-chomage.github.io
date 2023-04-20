@@ -49,7 +49,8 @@ Dans ce projet, en prenant les données sur sur la population et le chômage de 
   <h2>Les Graphiques:</h2>
   
 
-La grafique de la taux de chomage entre 2000-2020
+La grafique de la taux de chomage entre 2000-2020:
+Le graphique représente l'évolution du taux de chômage en Turquie entre les années 2000 et 2019. On peut voir que le taux de chômage a connu des hauts et des bas au cours de cette période, avec une tendance générale à la hausse
   
   
 
